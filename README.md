@@ -11,3 +11,7 @@ http://weegee.vision.ucmerced.edu/datasets/landuse.html
 # Result
 
 Metrics: Report accuracy, precision, recall, and F1-score for each case
+
+# Contributor 
+1. Rita Mahato 
+2. Priya Nemani 
